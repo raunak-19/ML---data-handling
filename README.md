@@ -30,8 +30,14 @@ Notebook:
 Notebook:
 feature_scaling.ipynb
 
+### 4. Encoding
+- label encoding
+- one - hot encoding
+
+  Notebook:
+- feature_encoding.ipynb
+
 ### Upcoming Topics
-- Encoding
 - Feature Selection
 - Train-Test Split
 
