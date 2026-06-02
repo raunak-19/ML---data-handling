@@ -11,7 +11,7 @@ This repository contains my hands-on practice and notes while learning Machine L
 - Dropping highly incomplete columns
 
 Notebook:
-- 01_missing_values.ipynb
+- missing_values.ipynb
 
 ### 2. Outlier Detection
 - Boxplots
@@ -20,10 +20,17 @@ Notebook:
 - Detecting and removing outliers
 
 Notebook:
-- 02_outlier_detection.ipynb
+- outlier_detection.ipynb
+
+### 3.Feature scaling
+- sklearn module
+- standardisation
+- normalisation
+
+Notebook:
+feature_scaling.ipynb
 
 ### Upcoming Topics
-- Feature Scaling
 - Encoding
 - Feature Selection
 - Train-Test Split
