@@ -43,3 +43,6 @@ feature_scaling.ipynb
 
 ## Datasets Used
 - Titanic Dataset
+
+## reference
+- https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day17-api-to-dataframe
